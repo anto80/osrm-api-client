@@ -17,7 +17,7 @@ following code to your composer.json file:
 
     {
         "require": {
-            "jens-na/osrm-api-client": "dev-master"
+            "anto80/osrm-api-client": "dev-master"
         }
     }
 

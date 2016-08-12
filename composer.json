@@ -5,6 +5,10 @@
     {
       "name": "Jens Nazarenus",
       "email": "jens@0x6a.de"
+    },
+    {
+      "name": "Antonio De Patto",
+      "email": "anto@depalop.com"
     }
   ],
   "require-dev": {
